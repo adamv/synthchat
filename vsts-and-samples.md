@@ -36,6 +36,15 @@ Roland SH-101, with a few extra features.
 
 * [Lukas](https://www.dropbox.com/s/flyn9rzbll4rdhu/Lukas-PG8X-collected-patches.zip?dl=0)
 
+## Drum Machines (various) (free)
+
+Collected links to free samples of vintage drum machines. Sample quality and organization various.
+
+* [Music Machines](http://machines.hyperreal.org/samples.html) - Roland drum machines, others
+* [Wave Alchemy](http://www.synthtopia.com/content/2016/09/21/free-linndrum-tape-drum-sample-library/) - LinnDrum
+* [Trash Audio](http://trashaudio.com/2012/10/linndrum-lm2-samples/) - LinnDrum LM2
+* [Trash Audio](http://trashaudio.com/2010/01/roland-tr-808-sample-pack/) - Roland TR-808
+
 ## Korg Collection ($250)
 
 The [Korg Collection](https://www.korg.com/us/products/software/korg_collection/index.php)
