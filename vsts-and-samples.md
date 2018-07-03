@@ -20,11 +20,17 @@ has one omnibus collection.
 Juno-60.
 
 # TAL-Chorus-LX (Roland Juno-60 chorus effect) (free)
+
 [TAL-Chorus-LX](https://tal-software.com/products/tal-chorus-lx) is a free implementation of the Juno-60's chorus unit.
 
 # TAL-BassLine-101 (Roland SH-101) ($60)
+
 [TAL-BassLine-101](https://tal-software.com/products/tal-bassline-101) is a high quality emulation of the
 Roland SH-101, with a few extra features.
+
+# PG-8X (Roland JX-8P) (free)
+
+[PG-8X](https://sites.google.com/site/mlvst0/) is an emulation of the Roland JX-8P.
 
 # Korg Collection ($250)
 
