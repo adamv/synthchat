@@ -32,6 +32,10 @@ Roland SH-101, with a few extra features.
 
 [PG-8X](https://sites.google.com/site/mlvst0/) is an emulation of the Roland JX-8P.
 
+### Patches
+
+* [Lukas](https://www.dropbox.com/s/flyn9rzbll4rdhu/Lukas-PG8X-collected-patches.zip?dl=0)
+
 ## Korg Collection ($250)
 
 The [Korg Collection](https://www.korg.com/us/products/software/korg_collection/index.php)
