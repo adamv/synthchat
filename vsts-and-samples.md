@@ -77,3 +77,12 @@ seen on sale for even less. Costs money, but is possibly the easiest way to get 
 as well as pre-built libraries for Ableton and other DAWs.
 
 Note: the Linn samples seem to have been removed from their catalog?
+
+## VST Speek (C64 SAM) (free)
+
+[VST Speek](https://blog.wavosaur.com/text-to-speech-vst-vst-speek/) is an implementation of
+the Commodore 64 text-to-speech program "Software Automated Mouth (SAM)". SAM was available
+for other contemporary 8-bit machines, and each version had its own distinctive sound based
+on the audio hardware available for the platform.
+
+For "phoneme mode", consult the [original manual](https://archive.org/details/user_manual_s.a.m./page/n0).
